@@ -1,0 +1,17 @@
+---------------------------------------------------------------
+Author: Éverson Filipe C. S. Moura
+GitHub: @eversonfilipe
+---------------------------------------------------------------
+"Why did you chose 'Space Systems' as examples?'"
+---------------------------------------------------------------
+
+Hello, i chose the "xxx Systems" example to rename the
+.sql files in my repositor because of it's abstraction
+while in a "miniworld", which can be easily used for
+study's examples or self-improvement as well.
+
+By the way, i made this databases using PostgreSQL, which
+is free and open-source; these things helped me to
+increase my job and resolution of problems, while in database.
+
+---------------------------------------------------------------
