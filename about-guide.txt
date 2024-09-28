@@ -1,0 +1,17 @@
+------------------------------------------------
+Author: Éverson Filipe C. S. Moura
+GitHub: @eversonfilipe
+------------------------------------------------
+
+Hello, welcome to the Guide.
+But why did i want to make this Guide directory?
+Well, in this directory you will have a guide about the
+own Project.
+
+Besides, the README.md one wants to give to the readers
+a general context about the GITHUB REPOSITORY, not the
+databases.
+
+I hope you all like it!
+
+------------------------------------------------
